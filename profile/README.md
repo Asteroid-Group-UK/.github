@@ -1,5 +1,18 @@
 ## Hi there 👋
 
+Asteroid Group
+  Asteroid Group is a business in the UK that provides the following
+
+  Media - Trading as Asteroid Media
+  Hosting - Trading as Asteroid Hosting
+  Vape Supplies - Trading as Asteroid Vape
+  Coffee - Trading as Asteroid Coffee
+  Web Development - Trading as Asteroid Web Studio
+  Software - Trading as Asteroid Software
+
+
+Asteroid Group is the registered business name.
+
 <!--
 
 **Here are some ideas to get you started:**
