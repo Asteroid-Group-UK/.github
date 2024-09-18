@@ -11,7 +11,9 @@ Asteroid Group
   Software - Trading as Asteroid Software
 
 
-Asteroid Group is the registered business name.
+Asteroid Group Limited is the registered business name.
+
+Registered Address: Ty Merlin, Caerphilly Business Park, Caerphilly, CF83 3GS
 
 <!--
 
